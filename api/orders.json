@@ -1,0 +1,6 @@
+[
+ {key: 1, ingredients: {bacon: 2, cheese: 2, meat: 2}, price: 4},
+ {key: 2, ingredients: {Cheese: 2}, price: 4},
+ {key: 3, ingredients: {Meat: 2}, price: 4},
+ {key: 4, ingredients: {Salad: 2}, price: 4}
+]
