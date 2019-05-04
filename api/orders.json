@@ -1,6 +1,6 @@
 [
- blah1: {key: 1, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {bacon: 2, cheese: 2, meat: 2}, price: 4},
- blah2: {key: 2, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {Cheese: 2}, price: 4},
- blah3: {key: 3, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {Meat: 2}, price: 4},
- blah4: {key: 4, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {Salad: 2}, price: 4}
+ blah1: {{key: 1, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {bacon: 2, cheese: 2, meat: 2}, price: 4}},
+ blah2: {{key: 2, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {Cheese: 2}, price: 4}},
+ blah3: {{key: 3, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {Meat: 2}, price: 4}},
+ blah4: {{key: 4, customer: {name: 'Test Me', address: {street: 'Teststreet', zipCode: '50613', country: 'USA'}, email: 'test@me.com'}, deliveryMethod: 'fastest', ingredients: {Salad: 2}, price: 4}}
 ]
